@@ -21,7 +21,7 @@
 // SOFTWARE.
 
 import Foundation
-import RxSwift
+import KDRxSwift
 
 /// Queue which is used for queueing subscriptions for queueSubscribeOn operator.
 class SerializedSubscriptionQueue {

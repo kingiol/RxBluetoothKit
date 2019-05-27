@@ -21,7 +21,7 @@
 // SOFTWARE.
 
 import Foundation
-import RxSwift
+import KDRxSwift
 import CoreBluetooth
 import RxTest
 @testable

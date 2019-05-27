@@ -22,7 +22,7 @@
 
 import Foundation
 import CoreBluetooth
-import RxSwift
+import KDRxSwift
 
 // swiftlint:disable line_length
 

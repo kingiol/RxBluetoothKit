@@ -25,7 +25,7 @@ import Nimble
 @testable
 import RxBluetoothKit
 import RxTest
-import RxSwift
+import KDRxSwift
 import CoreBluetooth
 
 class PeripheralCharacteristicsSpec: QuickSpec {

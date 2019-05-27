@@ -8,7 +8,7 @@
 
 import Foundation
 import CoreBluetooth
-import RxSwift
+import KDRxSwift
 
 /**
  RxBluetoothKit specific logging class which gives access to its settings.

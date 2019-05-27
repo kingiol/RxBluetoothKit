@@ -24,7 +24,7 @@ import Foundation
 
 @testable
 import RxBluetoothKit
-import RxSwift
+import KDRxSwift
 import RxTest
 import CoreBluetooth
 

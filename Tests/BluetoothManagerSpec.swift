@@ -26,7 +26,7 @@ import CoreBluetooth
 @testable
 import RxBluetoothKit
 import RxTest
-import RxSwift
+import KDRxSwift
 
 class BluetoothManagerSpec: QuickSpec {
     override func spec() {

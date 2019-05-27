@@ -21,7 +21,7 @@
 // SOFTWARE.
 
 import Foundation
-import RxSwift
+import KDRxSwift
 
 func unimplementedFunction(file: String = #file, function: String = #function, line: Int = #line) {
     fatalError("Unimplemented function \(function) in \(file):\(line)")

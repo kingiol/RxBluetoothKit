@@ -27,7 +27,7 @@ import CoreBluetooth
 @testable
 import RxBluetoothKit
 import RxTest
-import RxSwift
+import KDRxSwift
 
 class BluetoothManagerScanningSpec: QuickSpec {
 

@@ -22,7 +22,7 @@
 
 import Foundation
 import CoreBluetooth
-import RxSwift
+import KDRxSwift
 
 final class ScanOperation {
     let uuids: [CBUUID]?

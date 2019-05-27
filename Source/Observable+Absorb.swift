@@ -20,7 +20,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-import RxSwift
+import KDRxSwift
 
 extension ObservableType {
     /// Absorbes all of events from a and b observables into result observable.

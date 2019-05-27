@@ -27,7 +27,7 @@ import Nimble
 @testable
 import RxBluetoothKit
 import RxTest
-import RxSwift
+import KDRxSwift
 
 class ObservableQueueSubscribeOnSpec: QuickSpec {
 

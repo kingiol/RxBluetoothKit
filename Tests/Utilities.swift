@@ -24,7 +24,7 @@ import Foundation
 import Quick
 import Nimble
 import RxTest
-import RxSwift
+import KDRxSwift
 import CoreBluetooth
 import RxBluetoothKit
 
